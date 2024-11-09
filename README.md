@@ -2,8 +2,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone xxxx
-   cd xxxx
+   git clone https://github.com/nakai95/maptalk-iac.git
+   cd maptalk-iac
    ```
 2. Create a `.tfvars` files.
 
